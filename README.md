@@ -1,2 +1,2 @@
-# wenkaip-1836890.github.io
-info 101 stuff
+# html-css-webpage
+I have learned html/css in info 101 and have built some web pages.
